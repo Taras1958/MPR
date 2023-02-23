@@ -22,8 +22,10 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private WebView mywebView;
-    private String URL = "https://new-socialism.org/";
-//    private String URL = "https://www.computer-museum.ru/";
+
+    private String URL = "https://mpr.ru/";
+
+
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
